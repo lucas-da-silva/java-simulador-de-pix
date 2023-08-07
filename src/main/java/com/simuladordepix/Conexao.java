@@ -1,4 +1,4 @@
-package com.trybe.simuladordepix;
+package com.simuladordepix;
 
 import java.io.Closeable;
 import java.io.IOException;

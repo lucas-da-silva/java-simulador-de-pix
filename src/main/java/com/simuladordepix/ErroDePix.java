@@ -1,4 +1,4 @@
-package com.trybe.simuladordepix;
+package com.simuladordepix;
 
 public abstract class ErroDePix extends Exception {
 

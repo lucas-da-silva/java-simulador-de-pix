@@ -1,4 +1,4 @@
-package com.trybe.simuladordepix;
+package com.simuladordepix;
 
 public class Mensagens {
 
